@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="4#LAu`7;:8td[g4T5M^R" x="0" y="0"></block><block type="device_forever" id="[BeJahcUIq$[(i|A@lxI" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Yx@,%YbRvms?*DYS(pU*" x="0" y="0"><statement name="HANDLER"><block type="microcoderobotstart" id="t!)t_}PNzVG6ios{B6$D"><field name="this">robot.elecfreaksCuteBot</field></block></statement></block><block type="device_forever" id="rn`E!IHcizgBbs~DSN,l" x="418" y="1"></block></xml>
